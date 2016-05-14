@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="icon_name">Maps</string>
+    <string name="google_inc">Google inc.</string>
+    <string name="uninstall">UNINSTALL</string>
+    <string name="open">OPEN</string>
+    <string name="downloads">Downloads</string>
+    <string name="rating_number">5,490,300</string>
+    <string name="travel_location">Travel &amp; Local</string>
+    <string name="similar">Similar</string>
+    <string name="get_maps">Get the latest Google Maps app.</string>
+    <string name="update_text">
+         WHAT\'S NEW \n
+        • See your Google Contacts on your map \n
+        • Quickly publish photos to Google Maps from the Your Contributions page
+    </string>
+    <string name="read_more">READ MORE</string>
+    <string name="rate_app">Rate this app</string>
+    <string name="review_text">Reviews are linked to your account and are public</string>
+    <string name="menu_search">search</string>
+</resources>
